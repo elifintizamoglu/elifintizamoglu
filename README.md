@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elif İntizamoğlu</h1>
-<h3 align="center">A new graduate back-end developer</h3>
+<h3 align="center">A new graduate software developer</h3>
 
 - 🌱 I’m currently working with **Java**  and learning **React**
 
