@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elif İntizamoğlu</h1>
 <h3 align="center">A new graduate software developer</h3>
 
-- 🌱 I’m currently working with **Java**  and learning **React**
+- 🌱 I’m currently learning **Java and React**
 
 - 📫 How to reach me **elifintizam@gmail.com**
 
