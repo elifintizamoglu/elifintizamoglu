@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Elif İntizamoğlu</h1>
-<h3 align="center">A new graduate software developer</h3>
+<h1 align="center">Hi, I'm Elif İntizamoğlu</h1>
+<h3 align="center">Full Stack Developer</h3>
 
-<p align="center">I’m currently learning <strong>Java and React</strong></p>
+<p align="center">I’m currently learning <strong>Java and Angular</strong></p>
 <p align="center">Reach me from: <strong>elifintizam@gmail.com</strong></p>
 
 <h3 align="center">Connect with me:</h3>
