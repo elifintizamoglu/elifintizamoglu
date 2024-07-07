@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Elif. Nice to see you!</h1>
-<h3 align="center">A new graduate Computer Engineer from Turkey.</h3>
+<h3 align="center">Full Stack Developer from Turkey.</h3>
 
-<p align="center"> 🔭 I’m currently working on: <a href="https://github.com/elifintizamoglu/tobeto-java-3a-rentacar"> Rent A Car Project </a>
+<p align="center"> 🔭 I’m currently working on: <a href="https://github.com/elifintizamoglu/tobeto-java3a-rentacar-backend"> Rent A Car Project </a>
 <p align="center">  🌱 I’m currently learning: <strong>Java & Angular</strong> </p>
-<p align="center">  📫Reach me from: <a href="mailto:ornek@example.com">here</p>
+<p align="center">  📫Reach me from: <a href="mailto:elifintizam@gmail.com">here</p>
 
 
 <h3 align="center">Languages and Tools:</h3>
